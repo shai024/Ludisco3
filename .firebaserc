@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "ludisco-834b0": {
+      "hosting": {
+        "app": [
+          "ludisco-834b0"
+        ],
+        "ludisco": [
+          "ludisco"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ludisco-834b0"
+  }
+}
